@@ -7,6 +7,8 @@
 body {
   background-color: #cac5cc;
   font-family: Arial, sans-serif;
+  background-image: url('img/loginimg.jpg');
+  background-size: cover;
 }
 
 .container {
@@ -77,6 +79,4 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
   background-color: #3e8e41;
-  -webkit-animation: hop 1s;
-  animation: hop 1s;
 }
